@@ -1,0 +1,6 @@
+Install Instructions:
+
+1. Find the "mods" folder in the file structure
+2. Extract the <modname>.zip into that folder
+3. Verify that the files are arranged mods/<modname>/meta.json and not mods/<modname>/<modname>/meta.json
+4. Check the bottom right of the title screen for the addition "-modded" to the version number
